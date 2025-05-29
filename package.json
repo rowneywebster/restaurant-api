@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "It is a JSON server based API",
+  "license": "MIT",
+  "author": "Rowney",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server ./db.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
