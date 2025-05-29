@@ -1,16 +1,11 @@
 {
-  "name": "api",
+  "name": "restaurant-api",
   "version": "1.0.0",
-  "description": "It is a JSON server based API",
-  "license": "MIT",
-  "author": "Rowney",
-  "type": "commonjs",
-  "main": "index.js",
   "scripts": {
-    "start": "npx json-server ./db.json",
-    "build": "echo 'No build needed for JSON Server'" 
+    "start": "node server.js",
+    "build": "echo 'Build complete'"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "0.17.4"
   }
 }
