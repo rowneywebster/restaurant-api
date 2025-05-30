@@ -13,7 +13,7 @@
             "Rigatoni al forno",
             "Ravioli di ricotta e spinaci con burro salvia"
           ],
-          "image": "src/assets/assets/Meals/Gnocchi alla crema di tartufo.png"
+          "image": "https://i.im.ge/2025/05/30/v4Iruh.Gnocchi-alla-crema-di-tartufo.png"
         },
         {
           "category": "Wood-fired pizzas",
@@ -22,7 +22,7 @@
             "Pizza Mediterranea",
             "Pizza Tonno e Cipolla"
           ],
-          "image": "src/assets/assets/Meals/Pizza Margherita.png"
+          "image": "https://i.im.ge/2025/05/30/v4LDaF.Pizza-Margherita.png"
         },
         {
           "category": "Hearty mains",
@@ -31,7 +31,7 @@
             "Letto di suino brasato lento (barbecue pork loin)",
             "Salmone alla griglia (pan-grilled salmon fillet)"
           ],
-          "image": "src/assets/assets/Meals/Filetto di manzo.png"
+          "image": "https://i.im.ge/2025/05/30/v4DreT.Filetto-di-manzo.png"
         },
         {
           "category": "Seafood specialties",
@@ -39,12 +39,12 @@
             "Risotto alla pescatora (seafood risotto)",
             "Frutti di mare dishes"
           ],
-          "image": "src/assets/assets/Meals/Frutti di mare.png"
+          "image": "https://i.im.ge/2025/05/30/v4DZIT.Frutti-di-mare.png"
         },
         {
           "category": "Desserts",
           "foods": ["Classica tiramisu", "Crema di funghi al tartufo"],
-          "image": "src/assets/assets/Meals/Classica tiramisu.png"
+          "image": "https://i.im.ge/2025/05/30/v478aK.Classica-tiramisu.png"
         }
       ],
       "rating": 4.8,
@@ -54,7 +54,7 @@
         "Authentic Italian flavors,",
         "Whether you're seeking a romantic dinner, a family gathering,or a business lunch, Lucca offers a sophisticated yet welcoming setting to enjoy the best of Italian cuisine in Nairobi"
       ],
-      "image": "src/assets/assets/Restaurants/lucarestaurant.jpg"
+      "image": "https://i.im.ge/2025/05/30/v4adJG.lucarestaurant.jpeg"
     },
     {
       "id": 2,
@@ -70,7 +70,7 @@
             "tandoori chicken wings",
             "chicken malai tikka"
           ],
-          "image": "src/assets/assets/Meals/tandoori chicken wings.png"
+          "image": "https://i.im.ge/2025/05/30/v4LwB4.tandoori-chicken-wings.png"
         },
         {
           "category": "Mains",
@@ -80,12 +80,12 @@
             "lamb rogan josh",
             "palak paneer"
           ],
-          "image": "src/assets/assets/Meals/palak paneer.png"
+          "image": "https://i.im.ge/2025/05/30/v4Ldoy.palak-paneer.png"
         },
         {
           "category": "Seafood",
           "foods": ["Garlic prawns", "fish amritsari"],
-          "image": "src/assets/assets/Meals/fish amritsari.png"
+          "image": "https://i.im.ge/2025/05/30/v4DCvp.fish-amritsari.png"
         },
         {
           "category": "Vegetarian",
@@ -94,12 +94,12 @@
             "tandoori paneer tikka",
             "vegetable sheekh kebab"
           ],
-          "image": "src/assets/assets/Meals/tandoori paneer tikka.png"
+          "image": "https://i.im.ge/2025/05/30/v4LNaC.tandoori-paneer-tikka.png"
         },
         {
           "category": "Sides",
           "foods": ["Naan", "garlic naan", "plain chips", "masala chips"],
-          "image": "src/assets/assets/Meals/garlic naan.png"
+          "image": "https://i.im.ge/2025/05/30/v4DHfa.garlic-naan.png"
         }
       ],
       "rating": 3.9,
@@ -109,7 +109,7 @@
         "Whether you're craving a hearty curry or a flavorful tandoori dish, Open House promises an authentic Indian dining experience in Nairobi.",
         "Delicious and authentic."
       ],
-      "image": "src/assets/assets/Restaurants/openhouse.png"
+      "image": "https://i.im.ge/2025/05/30/v4awP8.openhouse.png"
     },
     {
       "id": 3,
@@ -120,7 +120,7 @@
         {
           "category": "staters",
           "foods": ["Swahili Rolls", "fries and Salsa", "Mshikaki"],
-          "image": "src/assets/assets/Meals/fries and Salsa.png"
+          "image": "https://i.im.ge/2025/05/30/v4D3N1.fries-and-Salsa.png"
         },
         {
           "category": "Beef",
@@ -129,12 +129,12 @@
             "Grilled meat",
             "garlic marinated Beef skewers"
           ],
-          "image": "src/assets/assets/Meals/nyamachoma.png"
+          "image": "https://i.im.ge/2025/05/30/v4L1ma.nyamachoma.png"
         },
         {
           "category": "Lamb",
           "foods": ["Tender lamb", "Lamb Rajasthani", "Tumbukiza"],
-          "image": "src/assets/assets/Meals/Lamb Rajasthani.png"
+          "image": "https://i.im.ge/2025/05/30/v4Iz4C.Lamb-Rajasthani.png"
         },
         {
           "category": "Asian-Inspired Dishes",
@@ -144,12 +144,12 @@
             "Thai Green Curry",
             "Glazed chicken breast soy"
           ],
-          "image": "src/assets/assets/Meals/Thai Coconut soup.png"
+          "image": "https://i.im.ge/2025/05/30/v4LPAq.Thai-Coconut-soup.png"
         },
         {
           "category": "Continental",
           "foods": ["fish and chips", "Penna pasta", "Big 5 burger"],
-          "image": "src/assets/assets/Meals/Big 5 burger.png"
+          "image": "https://i.im.ge/2025/05/30/v47sYC.Big-5-burger.png"
         }
       ],
       "rating": 5.0,
@@ -159,7 +159,7 @@
         "Enjoy meals with a view of wildlife in Nairobi National Park.",
         "Loved the nyama choma here."
       ],
-      "image": "src/assets/assets/Restaurants/Big5.png"
+      "image": "https://i.im.ge/2025/05/30/v4sHfM.Big5.png"
     },
     {
       "id": 4,
@@ -170,7 +170,7 @@
         {
           "category": "Sushi Rolls",
           "foods": ["Tugulu Roll", "Salmon Tataki Roll"],
-          "image": "src/assets/assets/Meals/Tugulu Roll.png"
+          "image": "https://i.im.ge/2025/05/30/v4LCw1.Tugulu-Roll.png"
         },
         {
           "category": "Small Plates",
@@ -179,7 +179,7 @@
             "Pressed Pork Belly Skewers",
             "Jumbo Prawn Tempura"
           ],
-          "image": "src/assets/assets/Meals/Pressed Pork Belly Skewers.png"
+          "image": "https://i.im.ge/2025/05/30/v4LIyK.Pressed-Pork-Belly-Skewers.png"
         },
         {
           "category": "Soups",
@@ -187,7 +187,7 @@
             "White Miso Soup with soy-braised pork belly",
             "Clear Mushroom Soup with aged Parma ham"
           ],
-          "image": "src/assets/assets/Meals/Clear Mushroom Soup with aged Parma ham.png"
+          "image": "https://i.im.ge/2025/05/30/v47HiD.Clear-Mushroom-Soup-with-aged-Parma-ham.png"
         },
         {
           "category": "Desserts",
@@ -197,12 +197,12 @@
             "banana bread",
             "exotic caramel"
           ],
-          "image": "src/assets/assets/Meals/banana ice cream.png"
+          "image": "https://i.im.ge/2025/05/30/v47doD.banana-ice-cream.png"
         },
         {
           "category": "Cocktails & Beverages",
           "foods": ["Tomatina", "Kijabe Kayama", "I Am Groot"],
-          "image": "src/assets/assets/Meals/Tomatina.png"
+          "image": "https://i.im.ge/2025/05/30/v4LtHp.Tomatina.png"
         }
       ],
       "rating": 3.6,
@@ -212,7 +212,7 @@
         "Nice ambiance and tasty food.",
         "My favorite local joint."
       ],
-      "image": "src/assets/assets/Restaurants/heros.png"
+      "image": "https://i.im.ge/2025/05/30/v4arur.heros.png"
     },
     {
       "id": 5,
@@ -223,7 +223,7 @@
         {
           "category": "Stater",
           "foods": ["Hot honey & goat cheese toast", "Black Dragon Maki"],
-          "image": "src/assets/assets/Meals/Black Dragon Maki.png"
+          "image": "https://i.im.ge/2025/05/30/v47hOf.Black-Dragon-Maki.png"
         },
         {
           "category": "Mains",
@@ -231,22 +231,22 @@
             "Chinese Stir-Fry chilli Beef",
             "Roasted Aubergine & Lemon Risotto"
           ],
-          "image": "src/assets/assets/Meals/Roasted Aubergine & Lemon Risotto.png"
+          "image": "https://i.im.ge/2025/05/30/v4LLH9.Roasted-Aubergine-Lemon-Risotto.png"
         },
         {
           "category": "Sushi",
           "foods": ["Crispy Teriyaki", "Fresh Tuna Crudo", "Salmon Rice  Bowl"],
-          "image": "src/assets/assets/Meals/Crispy Teriyaki.png"
+          "image": "https://i.im.ge/2025/05/30/v4DQKm.Crispy-Teriyaki.png"
         },
         {
           "category": "Desserts",
           "foods": ["Choclate Fondant", "Talisman Gold", "Sticky Date Pudding"],
-          "image": "src/assets/assets/Meals/Sticky Date Pudding.png"
+          "image": "https://i.im.ge/2025/05/30/v4LmbD.Sticky-Date-Pudding.png"
         },
         {
           "category": "Beverages",
           "food": ["Coffe & Cocoa", "Milkshakes & smoothies", "Tali teas"],
-          "image": "src/assets/assets/Meals/Coffe & Cocoa.png"
+          "image": "https://i.im.ge/2025/05/30/v47e21.Coffe-Cocoa.png"
         }
       ],
       "rating": 3.8,
@@ -256,7 +256,7 @@
         "My favorite local joint.",
         "Perfect spot for lunch."
       ],
-      "image": "src/assets/assets/Restaurants/talisman.png"
+      "image": "https://i.im.ge/2025/05/30/v47ryX.talisman.png"
     },
     {
       "id": 6,
@@ -267,7 +267,7 @@
         {
           "category": "BreakFast",
           "foods": ["English Breakfast", "Salata", "Golosa"],
-          "image": "src/assets/assets/Meals/English Breakfast.png"
+          "image": "https://i.im.ge/2025/05/30/v4DXiW.English-Breakfast.png"
         },
         {
           "category": "Vegeterian",
@@ -277,12 +277,12 @@
             "Salmone in due",
             "Caprese e verdure grigliate"
           ],
-          "image": "src/assets/assets/Meals/Salmone .png"
+          "image": "https://i.im.ge/2025/05/30/v4Lim8.Salmone.png"
         },
         {
           "category": "Pasta",
           "foods": ["La Carbanara", "Ragu alla Bolognese", "L'Arrabiata"],
-          "image": "src/assets/assets/Meals/La Carbanara.png"
+          "image": "https://i.im.ge/2025/05/30/v4IZWM.La-Carbanara.png"
         },
         {
           "category": "Desserts",
@@ -292,7 +292,7 @@
             "Tiramusi",
             "Profiteroles"
           ],
-          "image": "src/assets/assets/Meals/Torta di mele.png"
+          "image": "https://i.im.ge/2025/05/30/v4LA1P.Torta-di-mele.png"
         },
         {
           "category": "Wine",
@@ -302,7 +302,7 @@
             "Sparkling Extra Dry",
             "Merlot Veneto"
           ],
-          "image": "src/assets/assets/Meals/Fragolino Bianco.png"
+          "image": "https://i.im.ge/2025/05/30/v4DxSP.Fragolino-Bianco.png"
         }
       ],
       "rating": 4.4,
@@ -312,7 +312,7 @@
         "Whether you're in the mood for a hearty Italian meal, a sweet gelato treat, or a relaxing coffee break, La Cascina offers a delightful experience in the heart of Karen.",
         "My favorite local joint."
       ],
-      "image": "src/assets/assets/Restaurants/lacascina.png"
+      "image": "https://i.im.ge/2025/05/30/v4a1QT.lacascina.png"
     },
     {
       "id": 7,
@@ -323,17 +323,17 @@
         {
           "category": "Starters",
           "foods": ["Sambusas", "Azifa", "Timatim Salad"],
-          "image": "src/assets/assets/Meals/Sambusas.png"
+          "image": "https://i.im.ge/2025/05/30/v4L9XM.Sambusas.png"
         },
         {
           "category": "Main Dishes",
           "foods": ["Doro Wot", "Kitfo", "Shiro Wot", "Tibs", "Atakilt Wot"],
-          "image": "src/assets/assets/Meals/Doro Wot.png"
+          "image": "https://i.im.ge/2025/05/30/v4Dolr.Doro-Wot.png"
         },
         {
           "category": "Vegeterian",
           "foods": ["Yetsom Beyaynetu", "Shiro", "Misir Wot", "Fossolia"],
-          "image": "src/assets/assets/Meals/Yetsom Beyaynetu.png"
+          "image": "https://i.im.ge/2025/05/30/v4LEZf.Yetsom-Beyaynetu.png"
         },
         {
           "category": "Dessert",
@@ -343,12 +343,12 @@
             "Fruit Salads with Honey and Lime",
             "T'ej-Infused Treats"
           ],
-          "image": "src/assets/assets/Meals/Fruit Salads.png"
+          "image": "https://i.im.ge/2025/05/30/v4Dcrm.Fruit-Salads.png"
         },
         {
           "category": "sides",
           "food": ["Injera", "Ayib", "Gomen"],
-          "image": "src/assets/assets/Meals/injera.png"
+          "image": "https://i.im.ge/2025/05/30/v4I1QD.injera.png"
         }
       ],
       "rating": 4.6,
@@ -358,7 +358,7 @@
         "Will definitely come back!",
         "Loved the Injera."
       ],
-      "image": "src/assets/assets/Restaurants/habesha.png"
+      "image": "https://i.im.ge/2025/05/30/v4sGIq.habesha.png"
     },
     {
       "id": 8,
@@ -369,17 +369,17 @@
         {
           "category": "Seafood",
           "foods": ["Oysters", "Lobster", "Jumbo Prawns", "Malindi Sole"],
-          "image": "src/assets/assets/Meals/Jumbo Prawns.png"
+          "image": "https://i.im.ge/2025/05/30/v4IbqK.Jumbo-Prawns.png"
         },
         {
           "category": "Steak",
           "foods": ["Bone-In Ribeye", "Fillet Mignon", "T-Bone"],
-          "image": "src/assets/assets/Meals/Fillet Mignon.png"
+          "image": "https://i.im.ge/2025/05/30/v4DF7c.Fillet-Mignon.png"
         },
         {
           "category": "Signature Dishes",
           "foods": ["Seared Duck Breast", "Kingfish over Pearl Barley Risotto"],
-          "image": "src/assets/assets/Meals/Seared Duck Breast.png"
+          "image": "https://i.im.ge/2025/05/30/v4LjhY.Seared-Duck-Breast.png"
         },
         {
           "category": "Vegetarian",
@@ -388,7 +388,7 @@
             "Quinoa and Grilled Zucchini Salad",
             "Char Grilled Asparagus and Halloumi Salad"
           ],
-          "image": "src/assets/assets/Meals/Pearl Barley.png"
+          "image": "https://i.im.ge/2025/05/30/v4LsYz.Pearl-Barley.png"
         },
         {
           "category": "sides",
@@ -397,7 +397,7 @@
             "Roasted Garlic Mash",
             "Steamed Tenderstem Broccoli"
           ],
-          "image": "src/assets/assets/Meals/Roasted Garlic Mash.png"
+          "image": "https://i.im.ge/2025/05/30/v4Lh1X.Roasted-Garlic-Mash.png"
         }
       ],
       "rating": 4.2,
@@ -407,7 +407,7 @@
         "Nice ambiance and tasty food.",
         "Great service and amazing dishes."
       ],
-      "image": "src/assets/assets/Restaurants/7seafood.png"
+      "image": "https://i.im.ge/2025/05/30/v4sVJX.7seafood.png"
     },
     {
       "id": 9,
@@ -423,12 +423,12 @@
             "Garlic Bread",
             "Mogo & Lime Cheese Straws"
           ],
-          "image": "src/assets/assets/Meals/Jerked’ Up Nachos.png"
+          "image": "https://i.im.ge/2025/05/30/v4I53T.Jerked-Up-Nachos.png"
         },
         {
           "category": "Keto Bowls:",
           "foods": ["The Iron Man", "Lean Mean Bowl"],
-          "image": "src/assets/assets/Meals/Lean Mean Bowl.png"
+          "image": "https://i.im.ge/2025/05/30/v4Ivtp.Lean-Mean-Bowl.png"
         },
         {
           "category": "Wings & Seafood",
@@ -438,7 +438,7 @@
             "Calamari Fritos",
             "Gambas Al Ajilio"
           ],
-          "image": "src/assets/assets/Meals/Buffalo Chicken Wings.png"
+          "image": "https://i.im.ge/2025/05/30/v47jh0.Buffalo-Chicken-Wings.png"
         },
         {
           "category": "Sides",
@@ -447,7 +447,7 @@
             "Regular Salted Fries",
             "Garlicky Butter Fries"
           ],
-          "image": "src/assets/assets/Meals/Parmesan Truffle Fries.png"
+          "image": "https://i.im.ge/2025/05/30/v4LqhS.Parmesan-Truffle-Fries.png"
         },
         {
           "category": "Dessert",
@@ -457,7 +457,7 @@
             "Tuscan Trifle",
             "Organic Fruit"
           ],
-          "image": "src/assets/assets/Meals/Salted Caramel Cheesecake.png"
+          "image": "https://i.im.ge/2025/05/30/v4L0Zh.Salted-Caramel-Cheesecake.png"
         }
       ],
       "rating": 4.4,
@@ -467,7 +467,7 @@
         "Will definitely come back!",
         "My favorite local joint."
       ],
-      "image": "src/assets/assets/Restaurants/sankara.png"
+      "image": "https://i.im.ge/2025/05/30/v4aZRW.sankara.png"
     },
     {
       "id": 10,
@@ -483,12 +483,12 @@
             "Omelette Combo",
             "Fried Chicken & Waffles Benedict"
           ],
-          "image": "src/assets/assets/Meals/Omelette Combo.png"
+          "image": "https://i.im.ge/2025/05/30/v4L2WJ.Omelette-Combo.png"
         },
         {
           "category": "Salads",
           "foods": ["Chipotle Chicken Bowl", "Cobb Salad", "Caesar Salad"],
-          "image": "src/assets/assets/Meals/Cobb Salad.png"
+          "image": "https://i.im.ge/2025/05/30/v474Ap.Cobb-Salad.png"
         },
         {
           "category": "Main Courses",
@@ -497,7 +497,7 @@
             "Mushroom Beef Steak Combo",
             "Caribbean Jerk Chicken"
           ],
-          "image": "src/assets/assets/Meals/Chicken Alfredo.png"
+          "image": "https://i.im.ge/2025/05/30/v47NaL.Chicken-Alfredo.png"
         },
         {
           "category": "Drinks & Desserts",
@@ -507,7 +507,7 @@
             "Signature Mojitos",
             "Full Cakes"
           ],
-          "image": "src/assets/assets/Meals/Milkshakes.png"
+          "image": "https://i.im.ge/2025/05/30/v4LMor.Milkshakes.png"
         },
         {
           "category": "Pizzas",
@@ -517,7 +517,7 @@
             "Margherita",
             "Jerk Chicken"
           ],
-          "image": "src/assets/assets/Meals/Chicken Hawaiian.png"
+          "image": "https://i.im.ge/2025/05/30/v47A1a.Chicken-Hawaiian.png"
         }
       ],
       "rating": 4.9,
@@ -527,7 +527,7 @@
         "My favorite local joint.",
         "Fresh ingredients and great portions."
       ],
-      "image": "src/assets/assets/Restaurants/cjs.png"
+      "image": "https://i.im.ge/2025/05/30/v4sng4.cjs.png"
     }
   ]
 }
