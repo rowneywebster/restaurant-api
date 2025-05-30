@@ -1,0 +1,72 @@
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile-page {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .profile-form, .profile-card {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .avatar-selector {
+    margin-bottom: 20px;
+  }
+  
+  .avatars {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .avatar-option {
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 5px;
+    border: 2px solid transparent;
+  }
+  
+  .avatar-option.selected {
+    border-color: #4CAF50;
+  }
+  
+  .restaurant-selection {
+    margin: 20px 0;
+  }
+  
+  .restaurant-selection label {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  .profile-card {
+    background: #f9f9f9;
+  }
+  
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .card-header .avatar {
+    font-size: 2.5rem;
+  }
+  
+  .delete-btn {
+    background: #ff4444;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 15px;
+  }
