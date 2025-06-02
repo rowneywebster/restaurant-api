@@ -245,7 +245,7 @@
         },
         {
           "category": "Beverages",
-          "food": ["Coffe & Cocoa", "Milkshakes & smoothies", "Tali teas"],
+          "foods": ["Coffe & Cocoa", "Milkshakes & smoothies", "Tali teas"],
           "image": "https://i.im.ge/2025/05/30/v47e21.Coffe-Cocoa.png"
         }
       ],
@@ -347,7 +347,7 @@
         },
         {
           "category": "sides",
-          "food": ["Injera", "Ayib", "Gomen"],
+          "foods": ["Injera", "Ayib", "Gomen"],
           "image": "https://i.im.ge/2025/05/30/v4I1QD.injera.png"
         }
       ],
