@@ -31,7 +31,6 @@ server.post('/restaurants/:id/reviews', (req, res) => {
 
 
   fs.writeFileSync(dbFilePath, JSON.stringify(db, null, 2));
-t
   res.status(200).json(restaurant);
 });
 
